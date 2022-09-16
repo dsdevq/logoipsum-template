@@ -5,7 +5,7 @@ import { Section3 } from "./Section3"
 
 export const Main = () => {
 	return (
-		<main className='pt-[104px] pb-[132px] md:pt-12 flex flex-col gap-20'>
+		<main className='pt-[104px] pb-[132px] md:pt-12 flex flex-col gap-20 flex-auto'>
 			<Section1 />
 			<Section2 />
 			<Section3 />
