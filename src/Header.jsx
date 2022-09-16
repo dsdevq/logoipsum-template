@@ -1,15 +1,15 @@
 import React, { useState } from "react"
-import logo from "./assets/Logo Color.svg"
+import logo from "./assets/Logo.svg"
 
 export const Header = () => {
 	const [isOpen, setIsOpen] = useState(false)
 
 	return (
-		<header className='bg-lightOrange'>
+		<header className='bg-lightOrange sticky top-0 z-10'>
 			<div className='container'>
 				<nav className='flex justify-between items-center min-h-[145px] pt-2 md:min-h-[70px]'>
 					<a href='.'>
-						<img src={logo} alt='Logo' />
+						<img className='w-full max-w-[200px]' src={logo} alt='Logo' />
 					</a>
 					<ul className='flex gap-12 flex-wrap md:hidden'>
 						<li>

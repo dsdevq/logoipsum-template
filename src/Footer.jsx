@@ -1,5 +1,5 @@
 import React from "react"
-import logo from "./assets/Logo Color.svg"
+import logo from "./assets/Logo.svg"
 
 export const Footer = () => {
 	return (
@@ -7,7 +7,7 @@ export const Footer = () => {
 			<div className='container'>
 				<nav className='flex justify-between items-center min-h-[145px] pt-2 md:min-h-[70px] md:justify-center md:items-center'>
 					<a href='.' className='md:hidden'>
-						<img src={logo} alt='Logo' />
+						<img src={logo} className='w-full max-w-[200px]' alt='Logo' />
 					</a>
 					<ul className='flex gap-12 md:gap-8 flex-wrap '>
 						<li>

@@ -10,9 +10,9 @@ export const Section3 = () => {
 				<section className='flex justify-between gap-10 md:flex-wrap'>
 					<article className='flex flex-col basis-1/3 flex-1 rounded-[10px] p-6 text-center even:bg-orange even:text-white odd:text-grey odd:bg-almostWhite '>
 						<p className='mt-[10px] text-grey mb-6'>Starter</p>
-						<h1 className='font-bold text-6xl leading-[56px] -tracking-wide text-anotherDark'>
+						<h2 className='font-bold text-6xl leading-[56px] -tracking-wide text-anotherDark'>
 							Free
-						</h1>
+						</h2>
 						<div className='flex flex-col mt-7 mb-9'>
 							<p className='text-lg leading-[50px] -tracking-wider'>
 								1 Website
@@ -30,9 +30,9 @@ export const Section3 = () => {
 					</article>
 					<article className='flex flex-col basis-1/3 flex-1 rounded-[10px] p-6 text-center even:bg-orange even:text-white odd:text-grey odd:bg-almostWhite shadow-[0_32px_34px_0px_rgba(255,112,59,0.317827)]'>
 						<p className='mt-[10px] mb-6'>Premium</p>
-						<h1 className='font-bold text-6xl leading-[56px] -tracking-wide '>
+						<h2 className='font-bold text-6xl leading-[56px] -tracking-wide '>
 							$29<span className='text-2xl'>/month</span>
-						</h1>
+						</h2>
 						<div className='flex flex-col mt-7 mb-9'>
 							<p className='text-lg leading-[50px] -tracking-wider'>
 								1 Website
@@ -50,9 +50,9 @@ export const Section3 = () => {
 					</article>
 					<article className='flex flex-col basis-1/3 flex-1 rounded-[10px] p-6 text-center even:bg-orange even:text-white odd:text-grey odd:bg-almostWhite '>
 						<p className='mt-[10px] text-grey mb-6'>Enterprise</p>
-						<h1 className='font-bold text-6xl leading-[56px] -tracking-wide text-anotherDark'>
+						<h2 className='font-bold text-6xl leading-[56px] -tracking-wide text-anotherDark'>
 							$49<span className='text-2xl'>/month</span>
-						</h1>
+						</h2>
 						<div className='flex flex-col mt-7 mb-9'>
 							<p className='text-lg leading-[50px] -tracking-wider'>
 								1 Website
