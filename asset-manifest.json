@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/logoipsum-template/static/css/main.ca0bc8e5.css",
-    "main.js": "/logoipsum-template/static/js/main.a2be7554.js",
+    "main.css": "/logoipsum-template/static/css/main.3ae13757.css",
+    "main.js": "/logoipsum-template/static/js/main.6736841a.js",
     "static/media/pose_7.svg": "/logoipsum-template/static/media/pose_7.b3c52c3b830e88ae78b447d042681f9e.svg",
     "static/media/image2.svg": "/logoipsum-template/static/media/image2.bd85faf56379d9f5c63cbddd015098f3.svg",
     "static/media/Logo.svg": "/logoipsum-template/static/media/Logo.8f062102c65426e5b8b9ce1ea193e571.svg",
     "index.html": "/logoipsum-template/index.html",
-    "main.ca0bc8e5.css.map": "/logoipsum-template/static/css/main.ca0bc8e5.css.map",
-    "main.a2be7554.js.map": "/logoipsum-template/static/js/main.a2be7554.js.map"
+    "main.3ae13757.css.map": "/logoipsum-template/static/css/main.3ae13757.css.map",
+    "main.6736841a.js.map": "/logoipsum-template/static/js/main.6736841a.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca0bc8e5.css",
-    "static/js/main.a2be7554.js"
+    "static/css/main.3ae13757.css",
+    "static/js/main.6736841a.js"
   ]
 }
